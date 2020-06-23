@@ -1,6 +1,6 @@
 #include "lib_oxi600.h"
 
-const uint8_t u8LibVer[4] = {20,1,2,14};	 /*year NOTUSE release_sub_ver debug_ver*/
+const uint8_t u8LibVer[4] = {20,1,2,16};	 /*year NOTUSE release_sub_ver debug_ver*/
 
 
 
